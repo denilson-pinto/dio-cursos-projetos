@@ -1,0 +1,127 @@
+
+
+INTRODUÇÃO A GESTÃO DE PROJETOS E AO SCRUM
+
+
+Objetivos da Aula:
+
+1 - Conceitos Básicos
+
+2 - Papéis e Responsabilidades de cada um do time
+
+3 - Cerimônias do SCRUM
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DESAFIO DO DESENVOLVIMENTO DE SOFTWARE
+
+    ________________________                            ________________________________                ____________
+   |                        |                          |                                |              |            |
+   |  Objetivos de Negócio  | >>>>>> Requisitos >>>>>> |  Processo de Desenvolvimento   | >>>>>>>>>>>> |  Software  |
+   |________________________|                          |________________________________|              |____________| 
+                                                                        |
+                                                                        |
+
+                                                                * Concepção
+                                                                * Análise & Design
+                                                                * Desenvolvimento
+                                                                * Testes
+                                                                * Implantação
+
+
+
+Porcentagem do uso do software (aproximadamente):
+
+- Nunca, 45%
+- Raramente, 19%
+- Às vezes, 16%
+- Frequêntemente, 13%
+- Sempre, 7%
+
+
+(...) o Princípio de Pareto também se aplica ao desenvolvimento de software, onde 20% das funcionalidades costumam gerar 80% ou mais do benefício esperado.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+GESTÃO DE PROJETOS, TRADICIONAL X ÁGIL
+
+
+TRADICIONAL (WATERFALL): só permite que o projeto avance                         ÁGIL: software construído por partes (incremental) 
+quando uma fase está inteiramente completa.                                            e cada parte executa-se em um ciclo (iterativo).
+
+    - Escopo definido na fase final do Projeto (Preditivo).                         - Escopo definido ao longo do Projeto (Adaptativo).
+    - Projeto é controlado por fases e marcos.                                      - Projeto é controlado por funcionalidades entregues.
+    - Cliente só vê o software funcionando na fase final do Projeto.                - Cliente pode ver parte do software funcionando na parte inicial do Projeto.
+    - Resistência a mudanças.                                                       - Mudanças constantes de acordo com feedbacks contínuos.
+
+
+
+Em projetos tradicionais (Waterfall), você corre o risco de descobrir que estava errado depois de meses. Com SCRUM, você descobre que estava errado em no máximo 30 dias.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+GESTÃO DE PROJETOS ÁGEIS
+
+O que é ser Ágil?  Ágil é diferente de Rápido.   
+    
+- Rapidez (mudança) e desembaraço;
+- Fazer coisas complexas de forma simples;   
+- Equipe comprometida com os objetivos;
+- Maior valor para o cliente.    
+
+Ter capacidade de responder rapidamente a mudanças.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCRUM
+
+- SCRUM é um dos frameworks de gerenciamento de projetos ágeis;
+- Projetos usando equipes pequenas e multidisciplinares produzem os melhores resultados
+
+
+OS TRÊS PILARES DO SCRUM: TRANSPARÊNCIA, ADAPTAÇÃO E INSPEÇÃO
+
+- Conversar mais e escrever menos;
+- Demonstrar o software constantemente aos usuários e obter feedbacks constantes;
+- Requisitos mudam ao longo do tempo;
+- Aprender progressivamente com o uso do software.
+
+
+RAZÕES PARA ADOTAR O SCRUM:
+
+- Desenvolvido e entregue em partes menores (2 a 4 semanas), com constante feedback dos usuários;
+- Melhor gerenciamento de riscos (redução de incertezas);
+- Comprometimento, motivação e transparência da equipe (Daily Meeting);
+- Maior valor para o negócio (priorização do Backlog);
+- Usuários envolvidos durante todo o ciclo;
+- Aplicação das lições aprendidas (melhoria contínua).
+
+
+CARACTERÍSTICAS DO TIME SCRUM:
+
+- Equipes capazes de se auto-organizarem;
+- As tarefas são do time e todos são responsáveis;
+- Forte comprometimento com os resultados.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXERCÍCIO FINAL
+
+1) Qual a característica de um projeto ágil?
+
+a. ( ) Escopo definido na fase inicial do Projeto
+b. (X) Escopo definido ao longo do Projeto
+c. ( ) Resistente à mudanças
+d. ( ) Aumento de pessoas para que o projeto seja rápido
+e. ( ) Cliente paga mais caro para que o projeto seja mais rápido
+
+
+2) Quais são os pilares do SCRUM?
+
+a. ( ) Desenvolvedores e Gerente
+b. ( ) Processos e Mudanças
+c. (X) Adaptação, Transparência e Inspeção
+d. ( ) Comunicação e Status Report
+e. ( ) Riscos, Escopo e Custos
+
+
