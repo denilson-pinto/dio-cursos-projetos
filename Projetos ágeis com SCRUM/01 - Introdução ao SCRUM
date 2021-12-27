@@ -107,21 +107,73 @@ CARACTERÍSTICAS DO TIME SCRUM:
 
 EXERCÍCIO FINAL
 
-1) Qual a característica de um projeto ágil?
+1) Qual a característica de um projeto ágil?                                            2) Quais são os pilares do SCRUM?
 
-a. ( ) Escopo definido na fase inicial do Projeto
-b. (X) Escopo definido ao longo do Projeto
-c. ( ) Resistente à mudanças
-d. ( ) Aumento de pessoas para que o projeto seja rápido
-e. ( ) Cliente paga mais caro para que o projeto seja mais rápido
+a. ( ) Escopo definido na fase inicial do Projeto                                       a. ( ) Desenvolvedores e Gerente
+b. (X) Escopo definido ao longo do Projeto                                              b. ( ) Processos e Mudanças
+c. ( ) Resistente à mudanças                                                            c. (X) Adaptação, Transparência e Inspeção
+d. ( ) Aumento de pessoas para que o projeto seja rápido                                d. ( ) Comunicação e Status Report
+e. ( ) Cliente paga mais caro para que o projeto seja mais rápido                       e. ( ) Riscos, Escopo e Custos
 
 
-2) Quais são os pilares do SCRUM?
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
-a. ( ) Desenvolvedores e Gerente
-b. ( ) Processos e Mudanças
-c. (X) Adaptação, Transparência e Inspeção
-d. ( ) Comunicação e Status Report
-e. ( ) Riscos, Escopo e Custos
+
+PAPÉIS E RESPONSABILIDADE DE CADA UM DO TIME
+
+
+- PRODUCT  OWNER (PO):                                                                          - SCRUM MASTER (SM):
+
+    * Representante da área de Negócios;                                                        * Garantir o uso correto do SCRUM;
+    * PO não é um Comitê;                                                                       * Scrum Master não é Gerente de Projetos;
+    * Define as funcionalidades do software (Product Backlog);                                  * Age como facilitador;
+    * Prioriza as funcionalidades de acordo com o valor do negócio;                             * Auxilia o Product Owner no planejamento e estimativas do backlog;
+    * Garante que o time de desenvolvimento entenda os itens do Backlog                         * Auxilia a esquipe a remover impedimentos;
+      no nível necessário.                                                                      * Treina o time em autogerenciamento e interdisciplinaridade.
+
+
+
+
+- Time de Desenvolvimento (DEV) - 3 a 9 pessoas:
+
+    * Possui habilidades suficientes para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXERCÍCIO FINAL
+
+1) Quem é o responsável por priorizar o Backlog ? | 2) Quem é o responsável por garantir            | 3) Quem é o responsável por desenhar, construir e entregar o 
+                                                  | que o time utilize da melhor forma o SCRUM ?    |    software funcionando ?
+                                                  |                                                 |
+a. ( ) Scrum Master                               | a. (X) Scrum Master                             | a. ( ) Scrum Master
+b. ( ) Time DEV                                   | b. ( ) Time DEV                                 | b. (X) Time DEV
+c. ( ) Área de Negócios                           | c. ( ) Área de Negócios                         | c. ( ) Área de Negócios
+d. (X) Product Owner                              | d. ( ) Product Owner                            | d. ( ) Product Owner
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+TIME BOX: tempo máximo para fazer uma cerimônia ou sprint
+
+CERIMÔNIAS DO SCRUM
+
+Sprint = corrida, arrancada
+
+É o principal evento do SCRUM.
+
+Duração de 1 Sprint: 30 dias corridos (ou menos)
+
+COMPOSIÇÃO DE UMA SPRINT:                               Exemplo: Daily Meeting
+                                                        Time-Box: 15 minutos
+    * Planejamento da Sprint
+    * Reuniões diárias (Daily Meeting)
+    * Revisão da Sprint (Review)
+    * Retrospectiva da Sprint
+
+
+REVISÃO DA SPRINT (REVIEW): time DEV apresenta para o PO o trabalho feito
+
+RETROSPECTIVA DA SPRINT: reunião da equipe para lições aprendidas
 
 
