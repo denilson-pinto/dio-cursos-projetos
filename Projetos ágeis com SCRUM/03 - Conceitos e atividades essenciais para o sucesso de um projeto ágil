@@ -1,0 +1,87 @@
+
+
+OBJETIVOS DA AULA
+
+1. Estórias VS Tarefas
+
+2. Critérios de Aceite, Estimativa e Planejamento de Tarefas
+
+3. Relacionamento com Clientes/Stakeholders
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXERCÍCIO
+
+1) Qual característica melhor descreve uma estória          |   2) O que é uma Tarefa ?
+                                                            |
+a. ( ) Uma tarefa descrita em nível executivo               |   a. ( ) Um conjunto de estórias que o time de desenvolvimento deve desempenhar para entregar o projeto
+b. ( ) Uma tarefa descrita em nível de desenvolvimento      |   b. (X) Um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória
+c. (X) Uma tarefa descrita em nível de negócio              |   c. ( ) Um conjunto de épicos que o time de desenvolvimento deve desempenhar para entregar a estória
+d. ( ) Uma tarefa descrita em nível de entrega              |   d. ( ) Um conjunto de atividades que o PO deve desempenhar para entregar para o time de desenvolvimento
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+O QUE É UM CRITÉRIO DE ACEITE ?
+
+É uma lista de critérios que precisam ser alcançadas para que a USER STORY atenda os requisitos do usuário e seja aceita pelo Product Owner.
+
+Os critérios de aceitação têm o objetivo de: definir limites para as user stories. Ajudar o PO a detalhar em alto nível o que é necessário para entregar valor ao limite.
+
+
+EXERCÍCIO
+
+1) O que é um Critério de Aceite ?                                                      |   2) O que é Planning Poker ?
+                                                                                        |
+a. ( ) É uma lista de demandas que o PO deve atingir na entrega das tarefas             |   a. ( ) Uma atividade de integração do time
+b. ( ) É uma lista de critérios para que o épico atenda aos requisitos do cliente       |   b. ( ) Uma atividade de mensuração da capacidade do time
+c. (X) É uma lista de critérios para que a estória atenda aos requisitos do cliente     |   c. ( ) Uma atividade de mensuração da complexidade do Épico descrito pelo 
+d. ( ) É uma lista de cenários de teste                                                 |          cliente
+                                                                                        |   d. (X) Uma atividade de mensuração do esforço e complexidade das tarefas ou 
+                                                                                        |          estória
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+CLIENTE / STAKEHOLDER
+
+O stakeholder é uma pessoa ou grupo que ligitima as ações de uma organização e que tem um papel direto ou indireto na gestão e resultados dessa mesma organização. Desta forma, um stakeholder pode ser afetado positivamente ou negativamente, dependendo das suas políticas e forma de atuação.
+
+Alguns exemplos de stakeholder de uma empresa podem ser os seus funcionários, gestores, gerentes, proprietários, fornecedores, concorrentes, ONGs, clientes, o Estado, credores, sindicatos e diversas outras pessoas ou empresas que estejam relacionadas com uma determinada ação ou projeto.
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+OBJETIVOS DA AULA
+
+1. Daily e Retrospectiva
+
+2. Refinamento e Review
+
+3. Maturidade da Equipe
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXERCÍCIO (Daily e Retrospectiva)
+
+1) Quem tem participação obrigatória na Daily ?     |   2) Quem tem participação obrigatória na Retro ?
+                                                    |
+a. ( ) O Time de Desenvolvimento e o SM             |   a. (X) O Time de Desenvolvimento e o SM
+b. ( ) O Time de Desenvolvimento e o PO             |   b. ( ) O Time de Desenvolvimento e o PO
+c. (X) O Time de Desenvolvimento apenas             |   c. ( ) O Time de Desenvolvimento apenas 
+d. ( ) O Time de Desenvolvimento, o SM e o PO       |   d. ( ) O Time de Desenvolvimento, o SM e o PO 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXERCÍCIO (Refinamento e Review)
+
+1) Em que momento acontece o Refinamento ?                  |   2) Qual o principal objetivo da Review ?
+                                                            |
+a. ( ) O refinamento acontece um passo antes da Daily.      |   a. ( ) Verificar se o time entregou o trabalho direito.
+b. ( ) O refinamento acontece um passo depois da Retro.     |   b. ( ) Verificar se o PO entendeu a demanda.
+c. ( ) O refinamento acontece um passo antes da Planning.   |   c. ( ) Verificar se a demanda foi priorizada na Sprint.
+d. ( ) O refinamento acontece um passo depois da Review.    |   d. (X) Verificar se a demanda agrega valor ao negócio.
+
+
