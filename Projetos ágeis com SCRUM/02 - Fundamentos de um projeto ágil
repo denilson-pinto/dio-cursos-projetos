@@ -1,0 +1,91 @@
+
+
+OBJETIVOS DA AULA:
+
+1. Papéis e Responsabilidades do Product Owner
+2. Analisando escopo e definindo prioridades
+3. Papel do PO na Transformação Digital
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+PAPÉIS E RESPONSABILIDADES - PRODUCT OWNER
+
+Quem é o Product Owner ?
+
+O PO representa o profissional que tem a visão do que será desenvolvido, as necessidadesa a serem atendidas, o público que vai utilizar os serviços e os objetivos a serem alcançados.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+RELEASE PLANNING
+
+Liberação ou lançamento de software (em inglês: release) é o lançamento de nova versão oficial de produto de software. Cada vez que um produto de software é criado ou modificado, o fabricante e seus desenvolvedores decidem sobre como distribuir ou o novo produto ou a modificação às pessoas que o utilizam.
+
+Existem 2 tipos de Release Planning:
+
+    * Release Planning de Múltiplas Squads
+    * Release Planning de Projeto
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXERCÍCIO FINAL
+
+1) Qual característica melhor descreve uma atividade do PO ?    |   2) Qual o papel do PO dentro do time ?
+                                                                |
+a. ( ) Recebe a demanda e passa pra o time                      |   a. (X) Ajuda o time a entender a demanda e tira as dúvidas ao longo da sprint
+b. ( ) Escreve a estória e valida com o demandante              |   b. ( ) Coordena as pessoas do time e acompanha suas atividades 
+c. (X) Entende a demanda e extrai o maior valor possível        |   c. ( ) Remove os impedimentos que impactam o desenvolvimento da Sprint
+d. ( ) Escreve a estória e deixa o time avaliar os impactos     |   d. ( ) Responsável por manter o time abastecido com café
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+ANALISANDO ESCOPO E DEFININDO PRIORIDADES
+
+PRODUCT BACKLOG: é composto por Épicos e Estórias
+
+ÉPICOS: incremento sem muito detalhamento, ajuda a te direcionar dos caminhos que deve seguir.
+
+ESTÓRIA: detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e suas regras de negócio.
+
+
+
+ESCREVENDO UMA ESTÓRIA
+
+    * NOME DA ESTÓRIA;
+    * DESCRIÇÃO DA ESTÓRIA: Eu, Como, Quero, Quando;
+    * REGRAS DE NEGÓCIO: Separar Regras de Front-End de Regras de Back-End;
+    * TELA: Link ou imagem das telas a serem desenvolvidas;
+    * KPI: Quais os objetivos/valor a estória precisa atingir;
+    * TAGUEAMENTO: Como a estória será "Tagueada" para poder mensurar os KPI
+    * CRITÉRIOS DE ACEITE: Qual o passo a passo de todos os caminhos felizes possíveis a estória deve cumprir para que ela seja considerada aceita.
+
+
+
+RISCOS POSITIVOS
+
+POSITIVOS: muito ignorado nos projetos, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas.
+
+NEGATIVOS: itens que podem afetar o prazo, custo ou escopo de um projeto de maneira que pode acabar inviabilizando-o
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXERCÍCIO FINAL
+
+1) Qual método é mais indicado para definir o escopo do projeto ?   |   2) O que compõe um Product Backlog ?    |   3) Qual a importância de mapear Riscos Positivos ?
+                                                                    |                                           |
+a. ( ) Ler a solicitação junto com o time de desenvolvimento        |   a. ( ) Estória e Escopo                 |   a. ( ) Para o time poder descansar
+b. ( ) Pedir para o Demandante escrever o que ele quer              |   b. ( ) Escopo e Atividade               |   b. (X) Poder priorizar outros itens do backlog
+c. (X) Entender qual o ganho antes de definir o escopo              |   c. ( ) Épico e Atividade                |   c. ( ) Cobrar a entrega dos outros times
+d. ( ) Escrever o escopo baseado no seu conhecimento do produto     |   d. (X) Épico e Estória                  |   d. ( ) Conhecer a legislação vigente
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+PAPEL DO PO NA TRANSFORMAÇÃO DIGITAL
+
+A Transformação Digital é um processo no qual as empresas fazem uso da tecnologia para melhorar o desempenho, aumentar o alcance e garantir resultados melhores. É uma mudança estrutural nas organizações dando um papel essencial para a tecnologia
+
+
