@@ -1,0 +1,18 @@
+
+
+QUANDO PARAR OS TESTES ?
+
+A cultura de se testar o software pode ou tem algumas barreiras como:
+
+    * Tempo insuficiente;
+    * Orçamento curto;
+    * Falta de capacitação para identificar risco;
+    * Falta de capacitação dos desenvolvedores para executar ao menos um teste unitário.
+
+
+Quando atingir uma confiança nos requisitos, quando os critérios de encerramento forem atingidos ou quando o custo para identificação dos defeitos não compensam mais.
+
+
+ENTREGA:
+
+Documentação (Casos de Teste / Script de Teste); Status Report; Evidências de Testes

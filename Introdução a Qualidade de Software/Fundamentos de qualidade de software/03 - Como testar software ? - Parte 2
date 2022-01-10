@@ -1,0 +1,157 @@
+
+
+PLANEJAR
+
+Existem diversas técnicas utilizadas para se gerar casos de testes. Vamos abordar as seguintes técnicas de testes:
+
+* Partição por Equivalência (Equivalence Partition)
+* Análise do Valor Limite (Boundary Value Analysis)
+* Tabela de Decisão (Decision Table)
+* Testes por Transição de Estados (State Transitioning Testing)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ANÁLISE DO VALOR LIMITE
+
+O "Valor Limite" (bordas extremas de uma partição) são uma área em que os testes podem gerar defeitos. Os testes podem ser desenhados para cobrir tanto os valores válidos, quanto os inválidos.
+
+Deve ser feito em caso de teste para cada valor limite.
+
+A técnica é executada da seguinte forma:
+
+1. Identificar as partições equivalentes e os ranges de valores relacionados.
+
+2. Identificar os valores máximos e mínimos (resultando em partições válidas e inválidas).
+
+3. Desenvolver as condições de testes para cada valor limite identificado.
+
+
+Exemplo:
+      ______________________________________________________________________________________________________________________  
+     |                                      |                                       |                                       |
+     |                                   19 |   20                             50   |   51                                  |
+     |______________________________________|_______________________________________|_______________________________________|
+     |                                      |                                       |                                       |
+     |   VALORES INVÁLIDOS                  |   VALORES VÁLIDOS                     |   VALORES INVÁLIDOS                   |
+     |   Idade < 20                         |   Idade >= 20 e Idade <= 50           |   Idade > 50                          |
+     |                                      |                                       |                                       |
+     |   Partição e equivalência inválida   |   Partição de equivalência válida     |   Partição de equivalência inválida   |
+     |______________________________________|_______________________________________|_______________________________________|   
+
+
+
+Variações dessa técnica podem identificar três valores de limite por limite de dados:
+
+    * O valor anterior ao limite;
+    * O próprio valor limite;
+    * E imediatamente superior a ele.
+
+
+      _____________________________________20_______________________________________50______________________________________  
+     |                                      |                                       |                                       |
+     |                                   19 |   21                             49   |   51                                  |
+     |______________________________________|_______________________________________|_______________________________________|
+     |                                      |                                       |                                       |
+     |   VALORES INVÁLIDOS                  |   VALORES VÁLIDOS                     |   VALORES INVÁLIDOS                   |
+     |   Idade < 20                         |   Idade >= 20 e Idade <= 50           |   Idade > 50                          |
+     |                                      |                                       |                                       |
+     |   Partição e equivalência inválida   |   Partição de equivalência válida     |   Partição de equivalência inválida   |
+     |______________________________________|_______________________________________|_______________________________________| 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+EXERCÍCIO
+
+1) Considere o teste de uma aplicação de venda de cafés pela internet. Um dos produtos mais vendidos é o café torrado e moído, vendido exclusivamente em embalagens de 100, 500 e 1000 gramas. O sistema permite a compra de no mínimo 1kg e no máximo 20kg. Além disso, a quantidade total pedida deve ser acomodada em uma ou mais embalagens disponíveis. Qual conjunto mínimo de entradas para a compra de café torrado e moído (kg) para cobrir os valores limites para esta variável ?
+
+A. (X) 0,9; 1,0; 20,0; 20,1
+B. ( ) 1,0; 20; 0
+C. ( ) 0,0; 0,1; 20,0; 20,1
+D. ( ) 0,0; 0,1; 16,0; 20,1
+
+Identificando as partições de equivalência:
+
+
+      ______________________________________________________________________________________________________________________  
+     |                                      |                                       |                                       |
+     |                                 0,9  |   1                             20,0  |  20,1                                 |
+     |______________________________________|_______________________________________|_______________________________________|
+     |                                      |                                       |                                       |
+     |   VALORES INVÁLIDOS                  |   VALORES VÁLIDOS                     |   VALORES INVÁLIDOS                   |
+     |   Venda < 1 kg                       |   Venda >= 1 kg e Venda <= 20 kg      |   Venda > 20 kg                       |
+     |                                      |                                       |                                       |
+     |   Partição e equivalência inválida   |   Partição de equivalência válida     |   Partição de equivalência inválida   |
+     |______________________________________|_______________________________________|_______________________________________|
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TABELA DE DECISÃO
+
+Uma tabela de decisão ajuda a testar regras de negócios sobre várias condições do sistema (input do usuário) e as ações correspondentes (system outputs).
+
+A técnica de Tabela de Decisão analisa essencialmente dois parâmetros:
+
+    * Condições
+    * Ações
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TRANSIÇÃO DE ESTADOS
+
+Diagramas de Transição de Estados são utilizados no design da aplicação para representar o comportamento de um sistema em um número finito de estados.
+
+Estes diagramas são extremamente úteis em situações onde a análise e testes de sistema são requeridos utilizando como base o comportamento/situação anterior da aplicação com o que está ocorrendo no presente.
+
+A transição é iniciada por um evento (usuário inseriu valor em um campo).
+
+O evento resulta em uma transição.
+
+A mudança de estado pode fazer com que o software execute uma ação (gerar mensagem de cálculo ou de erro). 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TÉCNICAS DE TESTES BASEADAS NA EXPERIÊNCIA
+
+- SUPOSIÇÃO DE ERRO
+
+Como o aplicativo funcionou no passado;
+Quais tipos de erros os desenvolvedores tendem a fazer;
+Falhas ocorridas em outros aplicativos;
+
+
+- TESTE EXPLORATÓRIO
+
+Sem um roteiro previamente definido. São modelados, executados, registrados e avaliados dinamicamente durante a execução do teste.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- EXECUTAR
+
+Posso testar ?
+
+    Ambiente está atualizado ? ------> Tenho todos os acessos necessários ? ------> Preciso de alguma massa de teste ?
+
+
+- EVIDÊNCIAS DE ERRO:
+
+O que uma boa evidência deve ter ?
+
+    * Print do erro
+    * Descrição do passo a passo de como chegar ao problema
+    * Descrição do erro mostrado na tela
+    * Navegador, sistema operacional usado
+    * Versão do sistema testado
+
+
+- EVIDÊNCIAS DE SUCESSO:
+
+O que uma boa evidência deve ter ?
+
+    * Print do resultado esperado
+    * Nome ou id do caso de teste
+    * Data da execução e versão do sistema realizado
+    * Ciclo do teste
+
+

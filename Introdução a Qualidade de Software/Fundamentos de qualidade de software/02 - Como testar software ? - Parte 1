@@ -1,0 +1,89 @@
+
+
+TESTES DE SOFTWARE
+
+Tipos x Técnicas x Níveis
+
+- Tipos de teste:                           - Técnicas de Teste                             - Níveis de Teste
+
+    * Teste de Funcionalidade                   * Teste Funcional (Black-Box)                   * Teste de Unidade
+    * Teste de Usabilidade                      * Teste Estrutural (White-Box)                  * Teste de Integração
+    * Teste de Performance                                                                      * Teste de Sistema
+    * Teste de Segurança                                                                        * Teste de Aceitação (Visão de Cliente)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PROCESSO DE TESTE
+
+1 - Planejar                    2 - Projetar                            3 - Executar                        4 - Entregar
+
+    * Estratégia                    * Elaborar Casos de Teste               * Execução de Testes                * Evidências de Testes
+    * Plano de Testes               * Técnica de Testes                     * Evidências                        * Status Report
+    * Cenários Básicos                                                      * BUGs
+
+    Ferramentas:                    Ferramentas:                            Ferramentas:                        Ferramentas:
+    
+    * Azure                         * Azure                                 * Azure                             * Azure
+    * Jira                          * Jira                                  * Bugzilla                          * Jira
+    * TestLink                      * TestLink                              * Jira                              * TestLink
+                                                                            * Mantis
+                                                                            * RedMine
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+VISÃO GERAL DE TESTE
+
+     ________________________________________________________________________________________________________________________________________________________
+    |                                                                                                                                                        |
+    |      Plano de Teste                                                                                                                                    |
+    |                                                                                                                                                        |
+    |    __________________     _________________________________________________________________________________________________________________________    |
+    |   |                  |   |                                                                                                                         |   |
+    |   |  Casos de Teste  |   |         Ciclo de Teste                                                                                                  |   |
+    |   |__________________|   |                                                                                                                         |   |
+    |                          |     _______________________       __________________________________________________________________________________    |   |
+    |    __________________    |    |                       |     |                                                                                  |   |   |
+    |   |                  |   |    |   Versão do Software  |     |        Caso de Teste                                                             |   |   |
+    |   | Ciclos de Teste  |   |    |_______________________|     |                                                                                  |   |   |
+    |   |__________________|   |     _______________________      |   ____________________     ______________________      ______________________    |   |   |
+    |                          |    |                       |     |  |                    |   |                      |    |                      |   |   |   |
+    |                          |    |  Ambiente de  Teste   |     |  |   Massa de Dados   |   |  Passos de Execução  |    |  Resultado Esperado  |   |   |   |
+    |                          |    |_______________________|     |  |____________________|   |______________________|    |______________________|   |   |   |
+    |                          |                                  |                                                                                  |   |   |
+    |                          |                                  |__________________________________________________________________________________|   |   |  
+    |                          |                                                                                                                         |   |
+    |                          |_________________________________________________________________________________________________________________________|   |
+    |                                                                                                                                                        |
+    |________________________________________________________________________________________________________________________________________________________|
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TESTES ESTÁTICOS
+
+Checklist de Especificação de Requisitos:
+
+    * Verificação de diagramas;
+    * Código;
+    * Plano de Teste;
+    * Especificação de Testes;
+    * Script de Teste;
+    * Manual de Usuário;
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- PLANEJAR:
+
+Leitura dos Requisitos ------> Levantamento de Dúvidas ------> Idéias de Teste ------> Estimativa
+
+
+
+- Projetar:
+
+    * Nome/Título
+    * Objetivo
+    * Pré-condições
+    * Passo a passo
+    * Resultado esperado
+
+
