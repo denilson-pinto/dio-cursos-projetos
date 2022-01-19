@@ -1,0 +1,28 @@
+
+
+Aprenda a trabalhar com a interface Comparators
+
+- Interfaces que aprenderemos:
+
+    - java.util.Comparator: interface para definir classe com regra de ordenação
+
+    - java.util.Comparable: interface para definir regra de ordenação em uma classe de domínio
+
+
+- Algoritmos de ordenação
+
+- Utilizado primariamente em java.util.List
+
+- Permite a ordenação de objetos complexos (criados pelo usuário)
+
+
+Exercício final
+
+1 - Crie uma Lista de um objeto complexo e execute as seguintes operações:
+
+    - Adicione elementos nesta lista.
+    - Ordene implementando a interface java.util.Comparator no seu objeto complexo.
+    - Ordene implementando um novo objeto com a interface java.util.Comparable.
+    - Ordene usando uma expressão lambda na chamada de suaLista.sort().
+    - Ordene usando referências de métodos e os métodos estáticos de Comparator.
+    - Ordene coleções TreeSet e TreeMap.

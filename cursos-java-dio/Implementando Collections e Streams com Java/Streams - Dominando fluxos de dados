@@ -1,0 +1,40 @@
+
+
+Stream API 
+
+- Manipulação de coleções com o paradigma funcional de forma paralela
+
+- Imutável: não altera a coleção origem, sempre cria uma nova coleção
+
+- Principais funcionalidades:
+
+    - Mapping: retorna uma coleção com mesmo tamanho da origem com os elementos alterados
+    
+    - Filtering: retorna uma coleção igual ou menor que a coleção origem, com os elementos intactos
+
+    - ForEach: executa uma determinada lógica para cada elemento, retornando nada
+
+    - Peek: executa uma determinada lógica para cada elemento, retornando a própria coleção
+
+    - Counting: retorna um inteiro que representa a contagem de elementos
+
+    - Grouping: retorna uma coleção agrupada de acordo com a regra definida
+
+
+Exercício final
+
+1 -  Utilizando uma lista com um objeto complexo (Estudante, por exemplo) realize as seguintes operações:
+
+A) Transforme cada estudante em uma string com os atributos do objeto
+
+B) Conte a quantidade de estudantes tem na coleção
+
+C) Filtre estudantes com idade igual ou superior a 18 anos 
+
+D) Exiba cada elemento no console
+
+E) Retorne estudantes com nome que possui a letra B
+
+F) Retorne se existe ao menos um estudante com a letra D no nome
+
+G) Retorne o estudante mais velho (maior idade) da coleção. Retorne o mais novo também

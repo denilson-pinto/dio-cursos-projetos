@@ -1,0 +1,33 @@
+
+java.util.Queue
+
+- Implementações que aprenderemos:
+
+    - java.util.LinkedList
+
+- Garante a ordem de inserção
+
+- Permite adição, leitura e remoção considerando a regra básica de uma fila: primeiro que entra, primeiro que sai.
+
+- Não permite mudança de ordenação.
+
+Alguns métodos particulares:
+
+- Pool: retorna o primeiro elemento da fila (removendo-o da fila). Se a fila estiver vazia retornará Null. 
+
+- Peek: retorna o primeiro elemento da fila (sem removê-lo da fila). Se a fila estiver vazia retornará Null.
+
+- Element: retorna o primeiro elemento da fila (sem removê-lo da fila). Se a fila estiver vazia retornará a exceção "NoSuchElementException".
+
+
+Exercício final
+2 - Crie uma fila e execute as seguintes operações:
+
+    - Adicione 5 nomes: Juliana, Pedro, Carlos, Larissa e João.
+    - Navegue na lista exibindo cada nome no console.
+    - Retorne o primeiro item da fila, sem removê-lo.
+    - Retorne o primeiro item da fila, removendo o mesmo.
+    - Adicione um novo nome: Daniel. Verifique a posição que o mesmo assumiu na fila.
+    - Retorne o tamanho da fila.
+    - Verifique se a fila está vazia.
+    - Verifique se o nome Carlos está na fila.

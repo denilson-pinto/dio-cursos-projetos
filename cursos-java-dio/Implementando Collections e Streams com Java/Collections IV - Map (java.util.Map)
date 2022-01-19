@@ -1,0 +1,37 @@
+
+
+Aprenda quando utilizar Map
+
+java.util.Map
+
+- Implementações que aprenderemos:
+
+    - java.util.HashMap
+    - java.util.TreeMap
+    - java.util.HashTable
+
+- Entrada de chave e valor.
+
+- Permite valores repetidos, mas não permite repetição de chave.
+
+- Permite adição, busca por chave ou valor, atualização, remoção e navegação.
+
+- Pode ser ordenado.
+
+
+
+Exercício Final
+
+1 - Crie uma Map e execute as seguintes operações:
+
+    - Adicione os 26 estados brasileiros no Map, onde a sigla será a chave e o nome do estado o valor.
+    - Remova o estado de Minas Gerais.
+    - Adicione o Distrito Federal.
+    - Verifique o tamanho do mapa.
+    - Remova o estado de Mato Grosso do Sul usando o nome.
+    - Navegue em todos os registros do map mostrando no console no seguinte formato: NOME (SIGLA).
+    - Verifique se o estado de Santa Catarina existe no map buscando por sua sigla (SC).
+    - Verifique se o estado de Maranhão existe no map buscando por seu nome.
+
+
+
